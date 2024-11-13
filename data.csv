@@ -12,7 +12,7 @@
 10,Austria,1955-10-26,Wednesday,26.0,Oct,National Day,October 26,1955.0,Other,Declaration of Neutrality,1955.0,"October 26, 1955"
 11,Azerbaijan,1918-05-28,Tuesday,28.0,May,Republic Day,May 28,1918.0,Soviet Union,Declaration of Independence (Azerbaijan),1918.0,"May 28, 1918"
 12,Azerbaijan,1991-10-18,Friday,18.0,Oct,Independence Day,October 18,,Soviet Union,"Adoption of the constitutional act ""On the State Independence of the Republic of Azerbaijan""[12]",1991.0,"October 18, 1991"
-13,"Bahamas, The",1973-07-10,Tuesday,10.0,Jul,Independence Day,July 10,1973.0,United Kingdom,Effective date of The Bahamas Independence Order 1973[13],1973.0,"July 10, 1973"
+13,Bahamas,1973-07-10,Tuesday,10.0,Jul,Independence Day,July 10,1973.0,United Kingdom,Effective date of The Bahamas Independence Order 1973[13],1973.0,"July 10, 1973"
 14,Bahrain,1971-12-16,Thursday,16.0,Dec,Independence Day,December 16,1971.0,United Kingdom,Ascension of Isa bin Salman Al Khalifa to the throne[14],1971.0,"December 16, 1971"
 15,Bangladesh,1971-03-26,Friday,26.0,Mar,Independence Day,March 26,1971.0,Other,Proclamation of Bangladeshi Independence,1971.0,"March 26, 1971"
 16,Barbados,1966-11-30,Wednesday,30.0,Nov,Independence Day,November 30,1966.0,United Kingdom,Effective date of the Barbados Independence Act 1966,1966.0,"November 30, 1966"
@@ -22,7 +22,7 @@
 20,Benin,1960-08-01,Monday,1.0,Aug,Independence Day,August 1,1960.0,France,Effective date of the agreement with France signed on July 11 creating the independent Republic of Dahomey[18],1960.0,"August 1, 1960"
 21,Bhutan,,,,,,,,,,,
 22,Bolivia,1825-08-06,Saturday,6.0,Aug,Independence Day,August 6,1825.0,Spain,Bolivian Declaration of Independence,1825.0,"August 6, 1825"
-23,Bosnia and Herzegovina,1992-03-01,Sunday,1.0,Mar,Independence Day,March 1,1992.0,Other,1992 Bosnian independence referendum,1992.0,"March 1, 1992"
+23,Bosnia and Herz.,1992-03-01,Sunday,1.0,Mar,Independence Day,March 1,1992.0,Other,1992 Bosnian independence referendum,1992.0,"March 1, 1992"
 24,Botswana,1966-09-30,Friday,30.0,Sep,Independence Day,September 30,1966.0,United Kingdom,Effective date of the Botswana Independence Act 1966[19],1966.0,"September 30, 1966"
 25,Brazil,1822-09-07,Saturday,7.0,Sep,Independence Day (Dia da Independência),September 7,1822.0,Portugal,Declaration of independence by Pedro I of Brazil (see Independence of Brazil)[20],1822.0,"September 7, 1822"
 26,Brunei,1984-02-23,Thursday,23.0,Feb,National Day,February 23,1984.0,United Kingdom,"Brunei gained full independence effective January 1, 1984 under the Treaty of Friendship and Co-operation of 7 January 1979 between United Kingdom and Brunei.[21] However, the celebrations of the first National Day were delayed until February 23 and that day continues to be celebrated since.[22]",1984.0,"February 23, 1984"
@@ -35,16 +35,16 @@
 33,Cameroon,,,,,,,,,"Cameroon gained independence on January 1, 1960, but does not celebrate that date. Instead, it celebrates the National Day on May 20 commemorating the 1972 Cameroonian constitutional referendum.[30]",,
 34,Canada,,,,,,,,,Canada Day on July 1 commemorates the establishment of the Dominion of Canada in 1867.[31],,
 35,Cape Verde,1975-07-05,Saturday,5.0,Jul,Independence Day,July 5,1975.0,Portugal,"Effective date of the Agreement Between Portugal and Partido Africano para a Independência da Guiné e Cabo Verde (PAIGC) signed on December 18, 1974[32]",1975.0,"July 5, 1975"
-36,Central African Republic,1958-12-01,Monday,1.0,Dec,National Day,December 1,1958.0,France,Effective date when Central African Republic became an autonomous republic of the French Community[33],1958.0,"December 1, 1958"
-37,Central African Republic,1960-08-13,Saturday,13.0,Aug,Independence Day,August 13,,France,Effective date of the agreement with France signed on July 12[18],1960.0,"August 13, 1960"
+36,Central African Rep.,1958-12-01,Monday,1.0,Dec,National Day,December 1,1958.0,France,Effective date when Central African Republic became an autonomous republic of the French Community[33],1958.0,"December 1, 1958"
+37,Central African Rep.,1960-08-13,Saturday,13.0,Aug,Independence Day,August 13,,France,Effective date of the agreement with France signed on July 12[18],1960.0,"August 13, 1960"
 38,Chad,1958-11-28,Friday,28.0,Nov,Republic Day,November 28,,France,Effective date when Chad became an autonomous republic in the French Community[36],1958.0,"November 28, 1958"
 39,Chad,1960-08-11,Thursday,11.0,Aug,Independence Day,August 11,1960.0,France,Effective date of the agreement with France signed on July 12[18],1960.0,"August 11, 1960"
 40,Chile,1810-09-18,Tuesday,18.0,Sep,Independence Day (part of Fiestas Patrias),September 18,1810.0,Spain,"Establishment of the Government Junta of Chile.[37] The following day, September 19, is celebrated as the Army Day.[38] The two holidays collectively are known as Fiestas Patrias.[39]",1810.0,"September 18, 1810"
-41,"China, People's Republic of",,,,,,,,,"National Day commemorates the founding of the People's Republic of China on October 1, 1949.",,
+41,China,,,,,,,,,"National Day commemorates the founding of the People's Republic of China on October 1, 1949.",,
 42,"China, Republic of",,,,,,,,,"National Day commemorates the start of the Wuchang Uprising on October 10, 1911 which eventually led to the collapse of the Qing dynasty and the establishment of the Republic of China on January 1, 1912.[40] It was officially celebrated in mainland China until 1949, and in Taiwan since 1945.",,
 43,Colombia,1810-07-20,Friday,20.0,Jul,Independence Day,July 20,1810.0,Spain,Colombian Declaration of Independence,1810.0,"July 20, 1810"
 44,Comoros,1975-07-06,Sunday,6.0,Jul,Independence Day,July 6,1975.0,France,Unilateral declaration of independence by the Chamber of Deputies of Comoros following the 1974 Comorian independence referendum[41],1975.0,"July 6, 1975"
-45,"Congo, Democratic Republic of the",1960-06-30,Thursday,30.0,Jun,Independence Day,June 30,1960.0,Other,"Effective date of the Treaty of Friendship, Assistance and Co-operation between Belgium and the Congo concluded on June 29, 1960[42]",1960.0,"June 30, 1960"
+45,Dem. Rep. Congo,1960-06-30,Thursday,30.0,Jun,Independence Day,June 30,1960.0,Other,"Effective date of the Treaty of Friendship, Assistance and Co-operation between Belgium and the Congo concluded on June 29, 1960[42]",1960.0,"June 30, 1960"
 46,Congo,1958-11-28,Friday,28.0,Nov,Republic Day,November 28,,France,Effective date when Congo became an autonomous republic in the French Community[43],1958.0,"November 28, 1958"
 47,Congo,1960-08-15,Monday,15.0,Aug,Independence Day,August 15,1960.0,France,Effective date of the agreement with France signed on July 12.[18],1960.0,"August 15, 1960"
 48,Costa Rica,1821-09-15,Saturday,15.0,Sep,Independence Day,September 15,1821.0,Spain,Act of Independence of Central America[citation needed],1821.0,"September 15, 1821"
@@ -57,13 +57,13 @@
 55,Denmark,,,,,,,,,,,
 56,Djibouti,1977-06-27,Monday,27.0,Jun,Independence Day,June 27,1977.0,France,,1977.0,"June 27, 1977"
 57,Dominica,1978-11-03,Friday,3.0,Nov,Independence Day,November 3,1978.0,United Kingdom,,1978.0,"November 3, 1978"
-58,Dominican Republic,1821-02-27,Tuesday,27.0,Feb,,February 27,,Spain,"Independence from Spain in December 1821.[54] Independence re-declared from Haiti in 1844, after a 22-year occupation.",1821.0,"February 27, 1821"
+58,Dominican Rep.,1821-02-27,Tuesday,27.0,Feb,,February 27,,Spain,"Independence from Spain in December 1821.[54] Independence re-declared from Haiti in 1844, after a 22-year occupation.",1821.0,"February 27, 1821"
 59,East Timor,2002-05-20,Monday,20.0,May,,May 20,2002.0,Portugal,"East Timor was invaded by Indonesia from 1975 to 1999, officially it never ceased to be considered as administrated by Portugal.",2002.0,"May 20, 2002"
 60,Ecuador,1809-08-10,Thursday,10.0,Aug,Independence Day,August 10,1809.0,Spain,"Proclaimed independence on August 10, 1809, but failed with the execution of all the conspirators of the movement on August 2, 1810.",1809.0,"August 10, 1809"
 61,Ecuador,1822-05-24,Friday,24.0,May,,May 24,1822.0,Spain,Battle of Pichincha,1822.0,"May 24, 1822"
 62,Egypt,,,,,,,,,"Unilateral Declaration of Egyptian Independence was issued on February 28, 1922, but Egypt does not celebrate this date.",,
 63,El Salvador,1821-09-15,Saturday,15.0,Sep,Independence Day,September 15,1821.0,Spain,Act of Independence of Central America[citation needed],1821.0,"September 15, 1821"
-64,Equatorial Guinea,1968-10-12,Saturday,12.0,Oct,,October 12,1968.0,Spain,,1968.0,"October 12, 1968"
+64,Eq. Guinea,1968-10-12,Saturday,12.0,Oct,,October 12,1968.0,Spain,,1968.0,"October 12, 1968"
 65,Eritrea,1991-05-24,Friday,24.0,May,Independence Day,May 24,1991.0,Other,,1991.0,"May 24, 1991"
 66,Estonia,1918-02-24,Sunday,24.0,Feb,Independence Day,February 24,1918.0,Soviet Union,Estonian Declaration of Independence,1918.0,"February 24, 1918"
 67,Estonia,1991-08-20,Tuesday,20.0,Aug,Day of Restoration of Independence[55],August 20,1991.0,Soviet Union,Estonian Restoration of Independence,1991.0,"August 20, 1991"
@@ -73,7 +73,7 @@
 71,Finland,1917-12-06,Thursday,6.0,Dec,Independence Day,December 6,1917.0,Soviet Union,Finnish Declaration of Independence,1917.0,"December 6, 1917"
 72,France,1789-07-14,Tuesday,14.0,Jul,National Day or Bastille Day,July 14,1789.0,,Storming of the Bastille,1789.0,"July 14, 1789"
 73,Gabon,1960-08-17,Wednesday,17.0,Aug,,August 17,1960.0,France,Effective date of the agreement with France signed on July 15.[18],1960.0,"August 17, 1960"
-74,"Gambia, The",1965-02-18,Thursday,18.0,Feb,,February 18,1965.0,United Kingdom,Effective date of the Gambia Independence Act 1964,1965.0,"February 18, 1965"
+74,Gambia,1965-02-18,Thursday,18.0,Feb,,February 18,1965.0,United Kingdom,Effective date of the Gambia Independence Act 1964,1965.0,"February 18, 1965"
 75,Georgia,1918-05-26,Sunday,26.0,May,Independence Day,May 26,1918.0,Soviet Union,Day of the proclamation of the Democratic Republic of Georgia in 1918.,1918.0,"May 26, 1918"
 76,Georgia,1991-04-09,Tuesday,9.0,Apr,Day of National Unity,April 9,1991.0,Soviet Union,,1991.0,"April 9, 1991"
 77,Germany,,,,,,,,,"German Unity Day celebrates German reunification, but is not an independence day.",,
@@ -96,7 +96,7 @@
 94,Ireland,1916-04-24,Monday,24.0,Apr,,April 24,1916.0,United Kingdom,Proclamation of the Irish Republic commencing the Easter Rising. Usually celebrated on Easter Monday.,1916.0,"April 24, 1916"
 95,Israel,1948-05-14,Friday,14.0,May,Yom Ha'atzmaut,May 14,1948.0,United Kingdom,"Israeli Declaration of Independence on May 14, 1948 (5 Iyar 5708 in the Hebrew calendar). Yom Ha'atzmaut is celebrated on the Tuesday, Wednesday or Thursday nearest to 5 Iyar, so it occurs between 3 and 6 Iyar each year; this means that the holiday can fall any time between and including April 15 and May 15, according to the Gregorian calendar.",1948.0,"May 14, 1948"
 96,Italy,,,,,,,,,,,
-97,Ivory Coast,1960-08-07,Sunday,7.0,Aug,,August 7,1960.0,France,Effective date of the agreement with France signed on July 11.[18],1960.0,"August 7, 1960"
+97,Côte d'Ivoire,1960-08-07,Sunday,7.0,Aug,,August 7,1960.0,France,Effective date of the agreement with France signed on July 11.[18],1960.0,"August 7, 1960"
 98,Jamaica,1962-08-06,Monday,6.0,Aug,,August 6,1962.0,United Kingdom,Independence of Jamaica,1962.0,"August 6, 1962"
 99,Japan,,,,,,,,,,,
 100,Jordan,1946-05-25,Saturday,25.0,May,Independence Day,May 25,1946.0,United Kingdom,Ascension of Abdullah I of Jordan to the throne[59],1946.0,"May 25, 1946"
@@ -141,12 +141,12 @@
 139,Namibia,1990-03-21,Wednesday,21.0,Mar,,March 21,1990.0,Other,,1990.0,"March 21, 1990"
 140,Nauru,1968-01-31,Wednesday,31.0,Jan,,January 31,1968.0,Other,,1968.0,"January 31, 1968"
 141,Nepal,,,,,,,,,,,
-142,"Netherlands, The",1581-07-26,Sunday,26.0,Jul,,July 26,1581.0,Spain,Declaration of Independence in 1581 as the Dutch Republic,1581.0,"July 26, 1581"
+142,Netherlands,1581-07-26,Sunday,26.0,Jul,,July 26,1581.0,Spain,Declaration of Independence in 1581 as the Dutch Republic,1581.0,"July 26, 1581"
 143,New Zealand,,,,,,,,,,,
 144,Nicaragua,1821-09-15,Saturday,15.0,Sep,Independence Day,September 15,1821.0,Spain,Act of Independence of Central America[citation needed],1821.0,"September 15, 1821"
 145,Niger,1960-08-03,Wednesday,3.0,Aug,Independence Day,August 3,1960.0,France,Effective date of the agreement with France signed on July 11.[18],1960.0,"August 3, 1960"
 146,Nigeria,1960-10-01,Saturday,1.0,Oct,Independence Day,October 1,1960.0,United Kingdom,,1960.0,"October 1, 1960"
-147,North Macedonia,1991-09-08,Sunday,8.0,Sep,Independence Day (Den na nezavisnosta),September 8,1991.0,Other,,1991.0,"September 8, 1991"
+147,Macedonia,1991-09-08,Sunday,8.0,Sep,Independence Day (Den na nezavisnosta),September 8,1991.0,Other,,1991.0,"September 8, 1991"
 148,Norway,1814-05-17,Tuesday,17.0,May,Constitution Day,May 17,1814.0,Other,"National Day: Independence and the Constitution of Norway (May 17, 1814)",1814.0,"May 17, 1814"
 149,Norway,1905-06-07,Wednesday,7.0,Jun,Independence Day,June 7,1905.0,Other,"Union Dissolution and Independence Day (June 7, 1905)",1905.0,"June 7, 1905"
 150,Oman,1650-11-18,Friday,18.0,Nov,National Day,November 18,1650.0,Portugal,,1650.0,"November 18, 1650"
@@ -183,7 +183,7 @@
 181,Solomon Islands,1978-07-07,Friday,7.0,Jul,Independence Day,July 7,1978.0,United Kingdom,,1978.0,"July 7, 1978"
 182,Somalia,1960-07-01,Friday,1.0,Jul,Independence Day,July 1,1960.0,Other,Union of the Trust Territory of Somalia (former Italian Somaliland) and British Somaliland to form the Somali Republic. Event commemorated annually.,1960.0,"July 1, 1960"
 183,South Africa,1931-12-11,Friday,11.0,Dec,Not a holiday,December 11,1931.0,United Kingdom,"Independence in 1931 in terms of the Balfour Declaration of 1926 which is not a public holiday. The Union of South Africa formed on May 31, 1910 and the Republic of South Africa declared on May 31, 1961 under minority rule during Apartheid.  Majority rule achieved on April 27, 1994, which is celebrated annually as the Freedom Day.",1931.0,"December 11, 1931"
-184,South Sudan,2011-07-09,Saturday,9.0,Jul,Independence Day,July 9,2011.0,Other,,2011.0,"July 9, 2011"
+184,S. Sudan,2011-07-09,Saturday,9.0,Jul,Independence Day,July 9,2011.0,Other,,2011.0,"July 9, 2011"
 185,Spain,,,,,,,,,,,
 186,Sri Lanka,1948-02-04,Wednesday,4.0,Feb,Independence Day,February 4,1948.0,United Kingdom,,1948.0,"February 4, 1948"
 187,Sudan,1956-01-01,Sunday,1.0,Jan,Independence Day,January 1,1956.0,Other,,1956.0,"January 1, 1956"
